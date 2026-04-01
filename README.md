@@ -129,7 +129,7 @@ streamlit run app.py
 **Kanha Patidar**
 
 * GitHub: https://github.com/kanha165
-* LinkedIn: (Add your LinkedIn link)
+* LinkedIn: www.linkedin.com/in/kanha-patidar-837421290
 
 ---
 
